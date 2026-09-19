@@ -17,7 +17,11 @@
 
 4\.Working  
 	The CR2032 battery provides power to the circuit.The LED glows while the card is pressed,when the pressure is released the contact separate,the circuit is broken and the LED turns OFF.  
-	![][image1]
+	![][image1]<img width="988" height="519" alt="circuit" src="https://github.com/user-attachments/assets/890ed737-1cf4-41e2-87ad-9ec5cd9a4b31" />
+
+![result]<img width="1123" height="1600" alt="result" src="https://github.com/user-attachments/assets/993f1e4e-08a9-4b29-bba3-2c5bb76e5092" />
+
+
 
 	5.Advantage  
 		1)Simple and low cost.  
